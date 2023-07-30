@@ -5,7 +5,7 @@
 
 - 🌱 我目前正在学习 **备战考研！**
 
-- 📝 遐想之处 [https://whoarei.xlog.app/](https://whoarei.xlog.app/)
+- 📝 遐想之处 [https://whoarei.top/](https://whoarei.top)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
