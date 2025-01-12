@@ -3,9 +3,6 @@
 <img img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1688530324360-33002e7f9736?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2728&q=80">
 
 
-- 🌱 我目前正在学习 **备战考研！**
-
-- 📝 遐想之处 [https://whoarei.top/](https://whoarei.top)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
